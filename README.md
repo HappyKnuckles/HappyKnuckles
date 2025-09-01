@@ -2,12 +2,12 @@
 
 ## Mobile Developer | Angular Enthusiast | Fitness Fan
 
-Welcome to my GitHub! I’m a passionate mobile developer with a knack for building dynamic apps and web experiences. My toolbox is filled with Angular, TypeScript, C#, Vue, Entity Framework Core, and PostgreSQL.
+Welcome to my GitHub! I’m a passionate mobile developer with a knack for building dynamic apps and web experiences. My toolbox is filled with Angular, TypeScript, C#, Java, Vue, Entity Framework Core, and PostgreSQL.
 
 ---
 
 ### Tech Stack
-- **Languages:** TypeScript, C#, JavaScript
+- **Languages:** TypeScript, C#, JavaScript, Java, Python
 - **Frameworks:** Angular, Vue
 - **Backend:** Entity Framework Core (EFC), Spring Boot
 - **Database:** PostgreSQL
@@ -15,9 +15,9 @@ Welcome to my GitHub! I’m a passionate mobile developer with a knack for build
 ---
 
 ### Favorite Projects
-- [⚡ Lightning Bowl](https://github.com/HappyKnuckles/Lightning-Bowl)  
+- [⚡ Lightning Bowl](https://github.com/HappyKnuckles/Lightning-Bowl)  (Demo)[https://lightningbowl.de]
   This is my main project. My side hustle basicly. Open-source bowling app for tracking all sorts of bowling related stuff.
-- [🎬 Cinecitta](https://github.com/HappyKnuckles/Cinecitta-App)  
+- [🎬 Cinecitta](https://github.com/HappyKnuckles/Cinecitta-App) (Demo)[https://cine-app-three.vercel.app]
   A movie page wrapper for a local cinema to improve UX.
 
 ---
