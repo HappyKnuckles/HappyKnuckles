@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nicolas Hoffmann (HappyKnuckles)
 
-## Mobile Developer | Angular Enthusiast | Fitness Fan
+## Mobile/Web Developer | Computer science student
 
 Welcome to my GitHub! I’m a passionate mobile developer with a knack for building dynamic apps and web experiences. My toolbox is filled with Angular, TypeScript, C#, Java, Vue, Entity Framework Core, and PostgreSQL.
 
@@ -15,9 +15,9 @@ Welcome to my GitHub! I’m a passionate mobile developer with a knack for build
 ---
 
 ### Favorite Projects
-- [⚡ Lightning Bowl](https://github.com/HappyKnuckles/Lightning-Bowl)
+- [Lightning Bowl](https://github.com/HappyKnuckles/Lightning-Bowl)
   This is my main project. My side hustle basicly. Open-source bowling app for tracking all sorts of bowling related stuff. [Demo](https://lightningbowl.de)
-- [🎬 Cinecitta](https://github.com/HappyKnuckles/Cinecitta-App)
+- [Cinecitta](https://github.com/HappyKnuckles/Cinecitta-App)
   A movie page wrapper for a local cinema to improve UX. [Demo](https://cine-app-three.vercel.app)
 
 ---
