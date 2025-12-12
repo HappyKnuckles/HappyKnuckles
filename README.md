@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m a passionate mobile developer with a knack for build
 ### Favorite Projects
 - [Lightning Bowl](https://github.com/HappyKnuckles/Lightning-Bowl)
   This is my main project. My side hustle basicly. Open-source bowling app for tracking all sorts of bowling related stuff. [Demo](https://lightningbowl.de)
-- [Puzzle Game Collection](https://github.com/HappyKnuckles/game-collection)
+- [Puzzle Game Collection](https://github.com/HappyKnuckles/gamecollection)
   A small and growing collection of puzzle games i like. [Demo](https://games.nicolas-hoffmann.dev)
 
 ---
