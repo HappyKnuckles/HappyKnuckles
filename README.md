@@ -8,8 +8,8 @@ Welcome to my GitHub! I’m a passionate mobile developer with a knack for build
 
 ### Tech Stack
 - **Languages:** TypeScript, C#, JavaScript, Java, Python
-- **Frameworks:** Angular, Vue
-- **Backend:** Entity Framework Core (EFC), Spring Boot
+- **Frameworks:** Angular, Vue, React, NextJS
+- **Backend:** Entity Framework Core (EFC), Spring Boot, FastAPI, Flask
 - **Database:** PostgreSQL
 
 ---
@@ -17,13 +17,14 @@ Welcome to my GitHub! I’m a passionate mobile developer with a knack for build
 ### Favorite Projects
 - [Lightning Bowl](https://github.com/HappyKnuckles/Lightning-Bowl)
   This is my main project. My side hustle basicly. Open-source bowling app for tracking all sorts of bowling related stuff. [Demo](https://lightningbowl.de)
-- [Cinecitta](https://github.com/HappyKnuckles/Cinecitta-App)
-  A movie page wrapper for a local cinema to improve UX. [Demo](https://cine-app-three.vercel.app)
+- [Puzzle Game Collection](https://github.com/HappyKnuckles/game-collection)
+  A small and growing collection of puzzle games i like. [Demo](https://games.nicolas-hoffmann.dev)
 
 ---
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/nicolas-hoffmann-3b11261a9)
+[Portfolio](https://nicolas-hoffmann.dev)
 
 ---
 
@@ -32,4 +33,4 @@ I bowl, I develop, and I do fitness. Whether it’s perfecting my code, hitting 
 
 ---
 
-Thanks for stopping by! Let’s connect and build something awesome.
+Thanks for stopping by!
