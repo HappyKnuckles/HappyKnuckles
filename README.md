@@ -28,9 +28,4 @@ Welcome to my GitHub! I’m a passionate mobile developer with a knack for build
 
 ---
 
-### What Drives Me
-I bowl, I develop, and I do fitness. Whether it’s perfecting my code, hitting the bowling lanes, or working on my health, just trying to do better.
-
----
-
 Thanks for stopping by!
