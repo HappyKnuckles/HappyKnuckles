@@ -15,16 +15,16 @@ Welcome to my GitHub! I’m a passionate mobile developer with a knack for build
 ---
 
 ### Favorite Projects
-- [Lightning Bowl](https://github.com/HappyKnuckles/Lightning-Bowl)
+- [![Lightning Bowl](https://img.shields.io/badge/Lightning%20Bowl-427d9d?style=flat-square&logo=ionic&logoColor=white)](https://github.com/HappyKnuckles/Lightning-Bowl)
   This is my main project. My side hustle basicly. Open-source bowling app for tracking all sorts of bowling related stuff. [Demo](https://lightningbowl.de)
-- [Puzzle Game Collection](https://github.com/HappyKnuckles/gamecollection)
+- [![Puzzle Game Collection](https://img.shields.io/badge/Puzzle%20Game%20Collection-2e7d32?style=flat-square&logo=expo&logoColor=white)](https://github.com/HappyKnuckles/gamecollection)
   A small and growing collection of puzzle games i like. [Demo](https://games.nicolas-hoffmann.dev)
 
 ---
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/nicolas-hoffmann-3b11261a9)
-[Portfolio](https://nicolas-hoffmann.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/nicolas-hoffmann-3b11261a9)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6f42c1?style=flat-square&logo=google-chrome&logoColor=white)](https://nicolas-hoffmann.dev)
 
 ---
 
